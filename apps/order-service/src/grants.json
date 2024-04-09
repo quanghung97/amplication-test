@@ -556,5 +556,125 @@
     "resource": "Product",
     "action": "read:any",
     "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Ticket",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Ticket",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Ticket",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ticket",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Ticket",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Ticket",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Ticket",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ticket",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Ticket",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Ticket",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Ticket",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ticket",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Ticket",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Ticket",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Ticket",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ticket",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Ticket",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Ticket",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Ticket",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ticket",
+    "action": "read:any",
+    "attributes": "*"
   }
 ]
