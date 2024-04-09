@@ -1,8 +1,20 @@
 [
   {
-    "role": "user",
+    "role": "ahehe",
     "resource": "User",
-    "action": "read:own",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "User",
+    "action": "create:any",
     "attributes": "*"
   },
   {
@@ -12,7 +24,19 @@
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "ahehe",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
     "resource": "User",
     "action": "update:any",
     "attributes": "*"
@@ -20,7 +44,49 @@
   {
     "role": "user",
     "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "User",
     "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "User",
+    "action": "read:any",
     "attributes": "*"
   },
   {
@@ -30,9 +96,45 @@
     "attributes": "*"
   },
   {
+    "role": "ahehe",
+    "resource": "Order",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Order",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Order",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
     "role": "user",
     "resource": "Order",
     "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Order",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Order",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Order",
+    "action": "create:any",
     "attributes": "*"
   },
   {
@@ -42,7 +144,19 @@
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "ahehe",
+    "resource": "Order",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Order",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
     "resource": "Order",
     "action": "update:any",
     "attributes": "*"
@@ -50,7 +164,31 @@
   {
     "role": "user",
     "resource": "Order",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Order",
     "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Order",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Order",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Order",
+    "action": "read:any",
     "attributes": "*"
   },
   {
@@ -60,9 +198,45 @@
     "attributes": "*"
   },
   {
+    "role": "ahehe",
+    "resource": "Customer",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Customer",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Customer",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
     "role": "user",
     "resource": "Customer",
     "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Customer",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Customer",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Customer",
+    "action": "create:any",
     "attributes": "*"
   },
   {
@@ -72,7 +246,19 @@
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "ahehe",
+    "resource": "Customer",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Customer",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
     "resource": "Customer",
     "action": "update:any",
     "attributes": "*"
@@ -80,7 +266,49 @@
   {
     "role": "user",
     "resource": "Customer",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Customer",
     "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Customer",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Customer",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Customer",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Customer",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Customer",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Customer",
+    "action": "read:any",
     "attributes": "*"
   },
   {
@@ -90,9 +318,45 @@
     "attributes": "*"
   },
   {
+    "role": "ahehe",
+    "resource": "Address",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Address",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Address",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
     "role": "user",
     "resource": "Address",
     "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Address",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Address",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Address",
+    "action": "create:any",
     "attributes": "*"
   },
   {
@@ -102,7 +366,19 @@
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "ahehe",
+    "resource": "Address",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Address",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
     "resource": "Address",
     "action": "update:any",
     "attributes": "*"
@@ -110,7 +386,49 @@
   {
     "role": "user",
     "resource": "Address",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Address",
     "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Address",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Address",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Address",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Address",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Address",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Address",
+    "action": "read:any",
     "attributes": "*"
   },
   {
@@ -120,9 +438,45 @@
     "attributes": "*"
   },
   {
+    "role": "ahehe",
+    "resource": "Product",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Product",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Product",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
     "role": "user",
     "resource": "Product",
     "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Product",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Product",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Product",
+    "action": "create:any",
     "attributes": "*"
   },
   {
@@ -132,7 +486,19 @@
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "ahehe",
+    "resource": "Product",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Product",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
     "resource": "Product",
     "action": "update:any",
     "attributes": "*"
@@ -140,7 +506,49 @@
   {
     "role": "user",
     "resource": "Product",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Product",
     "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Product",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Product",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Product",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahehe",
+    "resource": "Product",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "ahihi",
+    "resource": "Product",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "dkm",
+    "resource": "Product",
+    "action": "read:any",
     "attributes": "*"
   },
   {
